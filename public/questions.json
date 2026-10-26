@@ -30,16 +30,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
   },
   {
-    "id": "q2",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "3058ee58",
     "question": "In a 2017 ar ticle, historian Jasmine Kilburn-Toppin explains that in early modern London, members of the city\u2019s guilds (trade and ar tisanal associations) were par ticipants in a civic culture in which gift giving both signaled and conferred social status. Research on this phenomenon has tended to focus on philanthropic gifting by London\u2019s largest guilds; for her par t, Kilburn-Toppin focuses on the gifting of handmade objects and fixtures (such as decorative paneling or plasterwork) within the craft guilds, which were \u201ccomposed of highly discerning producers and consumers of material cultures. \u201d Given this characterization, it can reasonably be inferred that the gifting of such objects may have ______ Which choice most logically completes the text?",
     "choices": {
@@ -70,31 +60,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "2ce657bc",
-    "question": "1,500 1,000 500 0 Number of beam breaks -4 10 24 38 52 66 80 94 108 122 136 150 Number of Infrared Beam Breaks by Mice Treated with CNO or Saline, by Sex Minutes from treatment females with saline males with saline males with CNO females with CNO To investigate the influence of cer tain estrogen-responsive neurons on energy expenditure, biologist Stephanie Correa et al. treated female and male mice with either saline solution or clozapine-N4-oxide (CNO), which activates the neurons. Monitoring the activity levels of the mice by measuring how frequently the animals broke infrared beams crossing their enclosures, Correa et al. found that the mice in their study showed sex-specific differences in response to neuron activation: ______ Which choice most effectively uses data from the graph to complete the asser tion?",
-    "choices": {
-      "A": "the four groups of mice differed greatly in their activity levels before treatment but showed identical activity levels at the end of the monitoring period.",
-      "B": "saline-treated females showed substantially more activity at cer tain points in the monitoring period than saline-treated males did.",
-      "C": "CNO-treated females showed more activity relative to saline-treated females than CNO-treated males showed relative to saline-treated males.",
-      "D": "CNO-treated females showed a substantial increase and then decline in activity over the monitoring period, whereas CNO-treated males showed a substantial decline in activity followed by a steep increase."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q6",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "C",
-    "rationale": "Choice C is the best answer. The graph shows that the CNO-treated females were way more active than the CNO-treated males, while the saline- treated males and females (the control groups) had very similar activity levels. This suppor ts the claim that there were sex-specific differences in the mice\u2019s response to neuron activation. Choice A is incorrect. This choice misreads the graph. All four groups of mice star ted at nearly the same activity level before treatment (see how all four points are very close together at -4 minutes, meaning four minutes before treatment). Choice B is incorrect. This choice doesn\u2019t complete the asser tion. The asser tion is about the mice\u2019s response to neuron activation, so we need to include the data about the CNO-treated females and males. Choice D is incorrect. This choice misreads the graph. The line for the CNO-treated males does not show a \u201csubstantial decline\u201d until around 122 minutes, and there is no \u201csteep increase\u201d afterward.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "da71a116",
     "question": "180 160 140 120 100 80 60 40 20 0 REM sleep as % of baseline (mean difference from baseline was not statistically significant) Day 1 Day 2 Fur Seal REM Sleep on Land after an Extended Period in Water Sleep on land Seal A Seal B Seal C Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they\u2019re in the water, they get almost none. In a study of fur seals\u2019 sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study ______ Which choice most effectively uses data from the graph to complete the text?",
     "choices": {
@@ -108,16 +73,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q8",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "Choice A is the best answer. If REM sleep were homeostatically regulated in fur seals, then all the seals would compensate with REM levels significantly over baseline after going weeks without REM. We\u2019d also expect the seals to maintain those elevated REM levels for some time. Since seals B and C return very quickly to baseline REM levels, this suggests that REM sleep in fur seals may not be regulated homeostatically. Choice B is incorrect. The graph doesn\u2019t depict REM sleep while in the water for the seals in the study. Additionally, we\u2019re told fur seals get no REM sleep while in the water, which is significantly different to the values shown in the graph for after they return to land. Choice C is incorrect. This doesn\u2019t suppor t the conclusion. If REM sleep were homeostatically regulated in fur seals, then we\u2019d suspect the seals to sustain REM levels well above baseline for a prolonged period in order to compensate for weeks of REM deprivation while in the water. Whether or not there\u2019s a reduction in REM sleep from day 1 to day 2 doesn\u2019t tell us how REM sleep on those days relates to baseline, which is where our focus should be. Choice D is incorrect. The y-axis of this graph doesn\u2019t depict baseline levels of REM sleep, but rather shows REM sleep as a percent of baseline.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "242c0e0e",
@@ -225,32 +180,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "6d83c86b",
-    "question": "7 6 5 4 3 2 1 0 Participants\u2019 mean rating (1\u20139; higher values = more positive) Helpfulness of review Attitude toward reviewed product Participants\u2019 Responses to Three Review Conditions no anger (control) high anger low anger To understand how expressions of anger in reviews of products affect readers of those reviews, business scholar Dezhi Yin and colleagues measured study par ticipants\u2019 responses to three versions of the same negative review\u2014a control review expressing no anger, a review expressing a high degree of anger, and a review expressing a low degree of anger. Reviewing the data, a student concludes that the mere presence of anger in a review may not negatively affect readers\u2019 perceptions of the review, but a high degree of anger in a review does worsen readers\u2019 perceptions of the review. Which choice best describes data from the graph that suppor t the students\u2019 conclusion?",
-    "choices": {
-      "A": "On average, par ticipants\u2019 ratings of the helpfulness of the review were substantially higher than were par ticipants\u2019 ratings of the reviewed product regardless of which type of review par ticipants had seen."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q17",
-    "question": "",
-    "choices": {
-      "B": "Compared with par ticipants who saw the control review, par ticipants who saw the low-anger review rated the review as slightly more helpful, whereas par ticipants who saw the high-anger review rated the review as less helpful.",
-      "C": "Par ticipants who saw the low-anger review rated the review as slightly more helpful than par ticipants who saw the control review did, but par ticipants\u2019 attitude toward the reviewed product was slightly worse when par ticipants saw the low-anger review than when they saw the no- anger review.",
-      "D": "Compared with par ticipants who saw the low-anger review, par ticipants who saw the high-anger review rated the review as less helpful and had a less positive attitude toward the reviewed product."
-    },
-    "correctAnswer": "B",
-    "rationale": "Choice B is the best answer. The claim is that low anger does not negatively affect readers\u2019 perceptions of the review, while high anger does negatively affect readers\u2019 perceptions of the review. This choice accurately expresses the suppor ting data from the \u201chelpfulness of review\u201d par t of the graph: that low-anger reviews were rated as slightly more helpful than no-anger reviews, while high-anger reviews were rated as less helpful than no-anger reviews. Choice A is incorrect. This choice does not suppor t the conclusion. The conclusion is only about how par ticipants feel about the review itself\u2014 the par ticipants\u2019 ratings of the reviewed product are not relevant. Choice C is incorrect. This choice does not suppor t the conclusion. The conclusion is only about how par ticipants feel about the review itself\u2014the par ticipants\u2019 attitude towards the reviewed product is not relevant. Choice D is incorrect. This choice does not suppor t the conclusion. The conclusion is only about how par ticipants feel about the review itself\u2014 the par ticipants\u2019 attitude towards the reviewed product is not relevant.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "91e76b20",
     "question": "In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such effor ts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations\u2019 beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______ Which choice most logically completes the text?",
     "choices": {
@@ -279,16 +208,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q20",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "296d50ce",
@@ -334,16 +253,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q24",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "bc94fc65",
@@ -511,16 +420,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "q36",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "de8ce4a5",
     "question": "In a study of perceptions of listening ability, par ticipants explained their position on a sociopolitical issue and then received a listener\u2019s written summary that expressed agreement or disagreement. Within selected summaries, researchers embedded markers of attentive listening (e.g., references to specific details), hypothesizing that such indications would positively influence perceptions of listening skill even in the context of disagreement. Instead, par ticipants consistently rated listeners who expressed disagreement as less skilled, regardless of the other traits of the listeners\u2019 summaries. What does the text most strongly imply about how par ticipants responded to expressions of disagreement?",
     "choices": {
@@ -534,16 +433,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
-  },
-  {
-    "id": "q38",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "7c13955a",
@@ -681,41 +570,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "a6fe2ac5",
-    "question": "250 200 150 100 50 0 Acid level (nanograms per gram of dry weight) jasmonic acid salicylic acid Jasmonic and Salicylic Acid Levels in Tomato Plants control plants plants exposed to air from whitefly-free plants and then infested plants exposed to air from whitefly-infested plants and then infested In tomato plants, herbivory induces defensive production of jasmonic acid, while microbial infection induces defensive production of salicylic acid; plants also emit airborne chemicals to initiate the appropriate defense in nearby tomato plants. Researchers investigated the poor resistance tomato plants show to whitefly herbivory by exposing some plants to airborne chemicals from whitefly-free plants and others to airborne chemicals from whitefly-infested plants, then infesting both groups of plants with whiteflies. The researchers concluded that whiteflies induce tomato plants to emit chemicals that cause other tomato plants to preferentially defend against microbial infection even when under herbivorous attack. Which choice best describes data from the graph that suppor t the researchers\u2019 conclusion?",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q49",
-    "question": "",
-    "choices": {
-      "A": "When plants exposed to air from whitefly-free plants were infested, they produced more jasmonic acid than did control plants, whereas when plants exposed to air from whitefly-infested plants were infested, they produced less jasmonic acid and more salicylic acid than did control plants.",
-      "B": "When plants exposed to air from whitefly-infested plants were infested, they produced less jasmonic acid than salicylic acid, whereas when plants exposed to air from whitefly-free plants were infested, they produced about the same amount of jasmonic acid and salicylic acid.",
-      "C": "When plants exposed to air from whitefly-free plants were infested, they produced both jasmonic acid and salicylic acid, whereas when plants exposed to air from whitefly-infested plants were infested, they exclusively produced salicylic acid.",
-      "D": "When plants exposed to air from whitefly-infested plants were infested, they produced less jasmonic acid than did control plants, whereas when plants exposed to air from whitefly-free plants were infested, they produced more jasmonic acid and salicylic acid than did control plants."
-    },
-    "correctAnswer": "A",
-    "rationale": "Choice A is the best answer because it best describes data from the graph that suppor t the researchers\u2019 conclusion about whitefly-induced defenses in tomato plants. According to the text, tomato plants produce airborne chemicals that prompt nearby tomato plants to increase their production of appropriate defensive chemicals, such as jasmonic acid in response to herbivory and salicylic acid in response to microbial infection. The text goes on to indicate that researchers concluded that whiteflies induce tomato plants to emit chemicals that cause nearby plants to defend against microbial infection instead of herbivory from whiteflies. The graph shows that control tomato plants (plants that weren\u2019t exposed to any chemicals from nearby tomato plants and weren\u2019t subsequently infested with whiteflies) produced about 140 nanograms of jasmonic acid per gram of dry weight and about 120 nanograms of salicylic acid per gram of dry weight, which indicates the baseline levels of these defensive chemicals in tomato plants. The graph also shows that plants exposed to air from whitefly-free plants produced about 205 nanograms of jasmonic acid per gram of dry weight when subsequently infested by whiteflies, which is more than the amount produced by the control plants. This suggests that when infested with whiteflies, tomato plants that weren\u2019t previously exposed to air from nearby whitefly- infested plants begin producing higher levels of jasmonic acid to defend against the infestation. Finally, the graph also shows that plants exposed to air from whitefly-infested plants and then subsequently infested by whiteflies produced approximately 100 nanograms of jasmonic acid per gram of dry weight (which is less than control plants did) and approximately 175 nanograms of salicylic acid per gram of dry weight (which is more than control plants did). This suggests that whiteflies cause tomato plants to emit chemical signals that decrease nearby plants\u2019 defenses against whitefly herbivory relative to baseline levels and redirect their defenses toward microbial infection, thereby suppor ting the researchers\u2019 conclusion that whiteflies cause tomato plants to emit airborne chemical signals that induce nearby plants to preferentially defend against microbes even when experiencing herbivory from whiteflies. Choice B is incorrect. Although the graph shows that tomato plants exposed to whitefly-infested plants produced less jasmonic acid than salicylic acid (about 100 nanograms of jasmonic acid per gram of dry weight vs. about 175 nanograms of salicylic acid per gram of dry weight), and although this might suggest that those plants are therefore better defended against microbial attack than against herbivory, this wouldn\u2019t be sufficient to conclude that this is the case: without reference to the relative levels of defensive chemicals produced by the plants in the other experimental conditions, it would be impossible to conclude that exposure to air from whitefly-infested plants either induces or diminishes these plants\u2019 defenses to different kinds of threats. Fur thermore, the graph shows that plants exposed to air from whitefly-free plants produced about 205 nanograms of jasmonic acid per gram of dry weight and about 130 nanograms of salicylic acid per gram of dry weight, not that they produced the same amount of the two acids. Choice C is incorrect because it inaccurately describes the data in the graph. The graph shows that plants in all three conditions produced both jasmonic and salicylic acid, not that plants exposed to air from whitefly-infested plants produce no jasmonic acid at all. Choice D is incorrect. Although the graph shows that plants exposed to air from whitefly-infested plants produced about 100 nanograms of jasmonic acid per gram of dry weight when infested, which is less than the amount produced by control plants (about 140 nanograms per gram of dry weight), and although the graph shows that plants exposed to air from whitefly-free plants produced about 205 nanograms of jasmonic acid per gram of dry weight when infested (which is more than the amount produced by control plants) and about 130 nanograms of salicylic acid per gram of dry weight (which is more than the approximately 120 nanograms per gram of dry weight produced by control plants), this wouldn\u2019t suppor t the researchers\u2019 conclusion that plants exposed to air from whitefly-infested plants preferentially defend against microbial infection\u2014that is, that they increase their levels of salicylic acid and decrease their levels of jasmonic acid relative to control plants. Rather, the data would suggest that exposure to air from whitefly-infested plants reduces plants\u2019 defenses against herbivory, but these data wouldn\u2019t indicate that whiteflies induce plants to redirect their defenses to guard against microbial infection. Fur thermore, the data",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
-    "id": "q50",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "aa1e80e0",
     "question": "Mar tin Dan\u010d\u00e1k, Wewin Tjiasmanto, and colleagues have identified a new carnivorous plant species (Nepenthes pudica) in Indonesia. Like other carnivorous plants, N. pudica has pitfall traps, or pitchers, that capture prey, but unlike others, the pitchers of N. pudica are located underground. The researchers unear thed the new species on fairly dry ridges with surfaces that host few other plants and animals. Therefore, the researchers hypothesize that the N. pudica species likely ______ Which choice most logically completes the text?",
     "choices": {
@@ -791,16 +645,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "q56",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "9089b238",
     "question": "Baltimore, Maryland, has installed engineered structures along 71% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures\u2014riprap and bulkheads\u2014Diann Prosser et al. surveyed waterbird communities consisting of the tundra swan, the great blue heron, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap. Which finding, if true, would most directly illustrate the researchers\u2019 finding?",
     "choices": {
@@ -844,16 +688,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
-  },
-  {
-    "id": "q60",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "ede59bd3",
@@ -991,16 +825,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
   },
   {
-    "id": "q70",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "6d39dd28",
     "question": "Many intellectual histories of the Black Power movement of the 1960s and 1970s rely heavily on essays and other explicitly ideological works as primary sources, a tendency that can overrepresent the perspectives of a small number of thinkers, most of whom were male. Historian Ashley D. Farmer has shown that expanding the array of primary sources to encompass more types of print material\u2014including political car toons, adver tisements, and ar twork\u2014leads to a much better understanding of the movement and the crucial and diverse roles that Black women played in shaping it.\u00a0 Which choice best describes the main idea of the text?",
     "choices": {
@@ -1104,16 +928,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q78",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "0e8e7b40",
@@ -1221,16 +1035,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
   },
   {
-    "id": "q86",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "203f5236",
     "question": "Mosses can struggle in harsh deser t conditions because these plants require enough sunlight for photosynthesis but not so much that they risk drying out. Researchers Jenna Ekwealor and Kirsten M. Fisher found several species of Syntrichia caninervis, a type of deser t moss, growing under quar tz crystals in California\u2019s Mojave Deser t. To evaluate whether these semitransparent rocks benefited the moss, the researchers compared the shoot tissue, a measure of plant growth, of S. caninervis when growing on the soil surface versus when the moss was growing under the quar tz rocks. They found that the shoot tissue was 62% longer for moss growing under the quar tz as compared to moss on the soil surface, suggesting that ______ Which choice most logically completes the text?",
     "choices": {
@@ -1259,16 +1063,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q89",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "6348827d",
@@ -1314,16 +1108,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q93",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "20b9deb0",
@@ -1401,31 +1185,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
   },
   {
-    "id": "73e2057c",
-    "question": "60 50 40 30 20 10 0 Percentage of contribution variable selection homogeneous selection dispersal limitation homogenizing dispersal nondominant process Relative Contributions of Processes to Prokaryotic and Fungal Community Assembly in Qinghai-Tibetan Lakes fungal community prokaryotic community In a 2020 study, Jian Yang et al. examined prokaryotic and fungal microbial communities in Qinghai-Tibetan Plateau lake sediment to understand the relative contributions of various factors to community assembly, or formation. They quantified the contributions of environmental pressures (variable and homogeneous selection), dispersal limitation, homogenizing dispersal, and nondominant processes. Tolerance of environmental pressures is known to be higher in fungi than in prokaryotes, which the researchers hypothesize accounts for the finding that ______ Which choice most effectively uses data from the graph to complete the statement?",
-    "choices": {
-      "A": "homogenizing dispersal contributed substantially less to fungal community assembly than variable selection did.",
-      "B": "the total number of factors that contributed to community assembly was greater for prokaryotes than for fungi.",
-      "C": "variable selection contributed substantially less to fungal community assembly than to prokaryote community assembly.",
-      "D": "the contribution of homogeneous selection to community assembly was negligible for both fungi and prokaryotes."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q100",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "C",
-    "rationale": "Choice C is the best answer because it most effectively uses data from the graph to complete the statement about the researchers\u2019 hypothesis regarding a finding. The text states that the researchers attribute a cer tain finding about community assembly in fungi and prokaryotes to the fact that fungi have a higher tolerance for environmental pressures than do prokaryotes. This finding, then, would be explained by the fact that fungi better tolerate environmental pressures, which the text defines as including variable and homogeneous selection. According to the graph, the contribution of variable selection to community assembly was nearly 40 percent for fungi but nearly 60 percent for prokaryotes, indicating that variable selection contributed significantly less to fungal community assembly than to prokaryotic community assembly. This finding aligns with the researchers\u2019 hypothesis: because fungi tolerate environmental pressures like variable selection better than prokaryotes do, those pressures play a smaller role in shaping fungal communities than in shaping prokaryotic communities. Choice A is incorrect. Although this comparison is suppor ted by the graph, which shows that homogenizing dispersal\u2019s contribution to fungal community assembly was just over 10 percent while variable selection\u2019s contribution was just under 40 percent, this comparison doesn\u2019t illustrate the hypothesis because it involves two factors affecting fungal community assembly. The researchers\u2019 hypothesis specifically concerns a difference between fungi and prokaryotes (namely, fungi\u2019s greater tolerance of environmental pressures), so a comparison that is limited to fungal community assembly doesn\u2019t represent a finding that aligns with this hypothesis. Choice B is incorrect because it mischaracterizes the information in the graph. The graph indicates that the total number of factors that contributed to community assembly was greater for fungi than for prokaryotes: all five factors made nonzero contributions to fungal community assembly, while two factors\u2014homogeneous selection and dispersal limitation\u2014appear not to have contributed to prokaryotic community assembly. In addition, the overall number of factors that influence community assembly isn\u2019t directly relevant to the researchers\u2019 hypothesis, which addresses the effects of higher tolerance of environmental pressures among fungi in comparison to prokaryotes. Choice D is incorrect. Although the graph indicates that homogeneous selection contributed only minimally to fungal community assembly and appears not to have contributed at all to prokaryotic community assembly, this isn\u2019t a finding that the researchers\u2019 hypothesis would account for. The hypothesis concerns a difference between fungi and prokaryotes that is plausibly attributable to fungi\u2019s greater tolerance of environmental pressures, which include homogeneous and variable selection. The finding that one type of environmental pressure contributed negligibly to both groups doesn\u2019t differentiate fungi from prokaryotes and therefore doesn\u2019t illustrate what the hypothesis is meant to explain.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "fcce3dcd",
     "question": "As juveniles, all white-necked jacobin hummingbirds display vibrantly blue head plumage; when they enter adulthood, males retain these blue feathers and most females molt to a drab green hue. However, 28% of adult female jacobins remain identical in coloration to juveniles and adult males. Based on field observations in Panama, a team of researchers repor ts that while adult males show a clear preference in mate selection for adult females with drab green feathers, they also engage in more antagonistic behavior toward those adult females than toward blue- feathered adult females when competing for resources. Therefore, the team hypothesizes that ______ Which choice most logically completes the text?",
     "choices": {
@@ -1439,32 +1198,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
-  },
-  {
-    "id": "78bb1833",
-    "question": "1,300 1,200 1,100 1,000 900 800 700 600 500 400 300 200 100 0 Number of municipalities no response responded to inquiry offered incentive Municipalities\u2019 Responses to Inquiries about Potential Incentives for Firm announcement before election announcement after election In the United States, firms often seek incentives from municipal governments to expand to those municipalities. A team of political scientists hypothesized that municipalities are much more likely to respond to firms and offer incentives if expansions can be announced in time to benefit local elected officials than if they can\u2019t. The team contacted officials in thousands of municipalities, inquiring about incentives for a firm looking to expand and indicating that the firm would announce its expansion on a date either just before or just after the next election.\u00a0 Which choice best describes data from the graph that weaken the team\u2019s hypothesis?",
-    "choices": {
-      "A": "A large majority of the municipalities that received an inquiry mentioning plans for an announcement before the next election didn\u2019t respond to the inquiry.",
-      "B": "The propor tion of municipalities that responded to the inquiry or offered incentives didn\u2019t substantially differ across the announcement timing conditions."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q103",
-    "question": "",
-    "choices": {
-      "C": "Only around half the municipalities that responded to inquiries mentioning plans for an announcement before the next election offered incentives.",
-      "D": "Of the municipalities that received an inquiry mentioning plans for an announcement date after the next election, more than 1,200 didn\u2019t respond and only around 100 offered incentives."
-    },
-    "correctAnswer": "B",
-    "rationale": "Choice B is the best answer. The text explains that firms in the United States often look to municipal governments (local governing bodies) for incentives to expand the firms into those areas. The text then indicates that a team of political scientists hypothesized that those governing bodies are much more likely to respond and offer incentives when the expansion (if there\u2019s going to be one) can be announced before an election, since announcing a firm coming to their area can benefit local elected officials. However, the graph\u2014which presents the results of the political scientists\u2019 inquiries to municipalities about incentives for a firm in two timing scenarios\u2014shows that the propor tion of municipalities that responded to the inquiry or offered incentives didn\u2019t substantially differ based on timing. According to the graph, about 200 municipalities responded to the inquiry and about 100 offered an incentive when the announcement could be made before an election (represented by the gray bars) and about 200 municipalities responded to the inquiry and about 100 offered an incentive when the announcement would be made after an election (represented by the black bars). These data weaken the team\u2019s hypothesis by demonstrating that municipalities are not much more likely to respond and offer incentives when the timing means they could announce an expansion before an election. Choice A is incorrect. Although the graph does show that a large number of municipalities didn\u2019t respond to inquiries in the scenario in which an expansion announcement could be made before an election (represented by the gray bars), the text indicates that the team hypothesized that there would be a substantial difference in municipalities\u2019 actions based on timing, and information about only one timing scenario doesn\u2019t reveal anything about whether such a difference occurred. Choice C is incorrect. The graph does show that in the scenario in which an expansion announcement could be made before an election (represented by the gray bars), about 200 municipalities responded to inquiries and about 100 offered an incentive, but the text indicates that the team hypothesized that there would be a substantial difference in municipalities\u2019 actions based on timing, and information about only one timing scenario doesn\u2019t reveal anything about whether such a difference occurred. Choice D is incorrect. Although this choice accurately describes data from the graph for the scenario in which an expansion announcement would be made after an election (represented by the black bars), the text indicates that the team hypothesized that there would be a substantial difference in municipalities\u2019 actions based on timing, and information about only one timing scenario doesn\u2019t reveal anything about whether such a difference occurred.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "d270afa4",
@@ -1510,16 +1243,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
-  },
-  {
-    "id": "q107",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "c86bd206",
@@ -1642,16 +1365,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "q116",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "32ecc7d8",
     "question": "In a paper about p-i-n planar perovskite solar cells (one of several perovskite cell architectures designed to collect and store solar power), Lyndsey McMillon-Brown et al. describe a method for fabricating the cell\u2019s electronic transpor t layer (ETL) using a spray coating. Conventional ETL fabrication is accomplished using a solution of nanopar ticles. The process can result in a loss of up to 80% of the solution, increasing the cost of manufacturing at scale\u2014an issue that may be obviated by spray coating fabrication, which the researchers describe as \u201chighly reproducible, concise, and practical. \u201d What does the text most strongly suggest about conventional ETL fabrication?",
     "choices": {
@@ -1697,16 +1410,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
   },
   {
-    "id": "q120",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "d008a479",
     "question": "Having demonstrated that the power conversion efficiency of new perovskite photovoltaic cells is nearly indistinguishable from that of cells recycled multiple times, Xun Xiao and colleagues evaluated the levelized cost of electricity (LCOE)\u2014a measure of cost per produced electricity unit that incorporates materials acquisition costs as well as operating costs\u2014for power plants utilizing each type of cell. With a modeled 15-year cell lifetime, the LCOE of plants using new cells was 4.99 cents per kilowatt-hour, whereas that of plants using cells recycled three times was 4.05 cents per kilowatt-hour. Moreover, the LCOE differential grew from 18.8% to 31.3% when the modeled cell lifetime was reduced by two- thirds. Based on the text, which choice, if true, most coherently and directly accounts for the observation presented in the underlined sentence?",
     "choices": {
@@ -1720,16 +1423,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q122",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "2cc02724",
@@ -1747,16 +1440,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
   },
   {
-    "id": "q124",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "009f6e9a",
     "question": "Some geologists have proposed designating the period from 1950 to the present as a new geological epoch (the Anthropocene) characterized by human impact on Ear th, but they have struggled to identify reliable stratigraphic markers of the epoch\u2019s onset. Inta Dimante-Deimantovica and a research team investigated whether the initial appearance of primary microplastics\u2014invented and mass-produced for industrial and other purposes, beginning around the middle of the twentieth century\u2014in sedimentary layers could serve this role. The researchers analyzed European lake sediment profiles from the late eighteenth century to the present. Microplastics were present in all layers, likely because cer tain microplastic shapes enabled rapid downward migration. The researchers therefore concluded that ______ Which choice most logically completes the text?",
     "choices": {
@@ -1770,32 +1453,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
-  },
-  {
-    "id": "d5a98073",
-    "question": "5 4 3 2 1 0 Rating (0 = no contribution, 5 = high contribution) project leaders stakeholders general public Average Ratings of Urban Agriculture\u2019s Contribution to Various Social or Ecological Services Group provision of medicinal plants improvement of neighborhood attachment improvement of local microclimate Urban agriculture is the practice of growing plant- or animal-based products in urban settings such as community gardens and rooftop farms. Esther Sany\u00e9-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy\u2014leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public\u2014to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The survey results show that, on average, project leaders rated urban agriculture as contributing less to ______ Which choice most effectively uses data from the graph to complete the asser tion?",
-    "choices": {
-      "A": "providing medicinal plants than to improving the local microclimate.",
-      "B": "improving community members\u2019 sense of attachment to the neighborhood than to offering educational oppor tunities.",
-      "C": "improving the local microclimate than to providing medicinal plants."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q127",
-    "question": "",
-    "choices": {
-      "D": "improving the local microclimate than to providing tourist attractions."
-    },
-    "correctAnswer": "A",
-    "rationale": "Choice A is the best answer because it most effectively uses data from the graph to complete the asser tion about urban agriculture. The graph shows the average survey ratings, on a scale of 0 to 5, from three groups of people\u2014project leaders, stakeholders, and the general public\u2014 concerning the contributions of urban agriculture. According to the graph, project leaders gave an average rating of approximately 2 to urban agriculture\u2019s contributions to the provision of medicinal plants, which is lower than the average rating of approximately 3 that project leaders gave to urban agriculture\u2019s contributions to both improving the local microclimate and improving a sense of attachment to the neighborhood. This shows that project leaders rated urban agriculture as contributing less to providing medicinal plants than to improving the local microclimate. Choice B is incorrect because the graph doesn\u2019t provide data about urban agriculture\u2019s contribution to educational oppor tunities; therefore, this comparison can\u2019t be made. Choice C is incorrect because it contradicts the data shown in the graph. On average, project leaders gave a rating of approximately 3 to urban agriculture\u2019s contributions to improving the local microclimate, which is higher, not lower, than the average rating of approximately 2 that they gave to its contributions to providing medicinal plants. Choice D is incorrect because the graph doesn\u2019t provide data about urban agriculture\u2019s contribution to providing tourist attractions; therefore, this comparison can\u2019t be made.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "06a5435f",
@@ -1903,16 +1560,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
   },
   {
-    "id": "q135",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "554c82f7",
     "question": "The alpaca was domesticated by Indigenous peoples in the Andes about 7,000 years ago. But which wild species did it descend from, the vicu\u00f1a or guanaco? A research team led by Ruiwen Fan may have solved the mystery, concluding that the alpaca is the domesticated form of the vicu\u00f1a but that the modern alpaca gets only 64 percent of its genetic material from its wild ancestor. The rest comes from the domesticated llama. The llama, meanwhile, gets 95.5 percent of its genetic material from its own wild ancestor, the guanaco, and the rest from the alpaca. The llama and alpaca apparently interbred widely for only a handful of generations between 400 and 600 years ago. Assuming that the findings of Fan\u2019s team are valid, it can be inferred that ______ Which choice most logically completes the text?",
     "choices": {
@@ -1941,16 +1588,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q138",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "532c486a",
@@ -1996,31 +1633,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "14335416",
-    "question": "40 30 20 10 0 Number of individual young fish Winter Spring Fall Number of Young Fish Collected at Mangrove Sites in the Egyptian Red Sea During Three Seasons of 2010 Season Common silver-biddy Red Sea goatfish Milkfish Mangroves are trees or bushes that grow on the coastlines of seas and rivers. Areas with mangroves are great places for young fish since they help keep these fish fed and protected while they grow. To study the impor tance of mangroves to young fish, researchers Mohamed A.Abu El- Regal and Nesreen K. Ibrahim collected and identified young fish from three different mangrove sites in the Egyptian Red Sea. They collected fish in the winter, spring, and autumn of 2010, collecting a total of 269 fish from 21 different species. For some species, more fish were collected in the winter than the other two seasons, for instance: ______ Which choice most effectively uses the data in the graph to complete the example?",
-    "choices": {
-      "A": "more common silver-biddy and milkfish were collected in the winter than in either of the other two seasons.",
-      "B": "the common silver-biddy was collected more frequently than the other two species in all three seasons.",
-      "C": "in the spring, researchers collected more Red Sea goldfish than they collected from the other two species.",
-      "D": "in the fall, researchers collected 10 common silver-biddy but collected no milkfish or Red Sea goatfish."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q143",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "A",
-    "rationale": "Choice A is the best answer. The claim is about which fish were collected more in winter than in other seasons. By comparing the number of common silver-biddy and milkfish collected in each season, we can see that more of these fish were collected in winter than in any other season. Choice B is incorrect. The claim is about which fish were collected more in winter than in other seasons. This statement compares collections across the three species of fish, rather than comparing collections of individual types of fish across seasons. Choice C is incorrect. The claim is about which fish were collected more in winter than in other seasons. This statement is about spring, rather than winter. Choice D is incorrect. The claim is about which fish were collected more in winter than in other seasons. This statement is about fall, rather than winter, fish collections.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "85aba4cc",
@@ -2083,16 +1695,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
   },
   {
-    "id": "q148",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "6bfbd559",
     "question": "Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to oxidize organic matter and transfer electrons extracellularly. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm 2 ). In an experiment, researchers added silver nanopar ticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm 2 . Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______ Which choice most logically completes the text?",
     "choices": {
@@ -2138,16 +1740,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCentral Ideas and Details\nHard"
   },
   {
-    "id": "q152",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "584bfc85",
     "question": "The fynbos shrubland is a diverse habitat found only in South Africa. It is adjacent to the Afro-temperate forest, with almost no transition space between the two distinct habitats. Plants in the fynbos have uniquely thin and long root systems that spread out over large distances to absorb nutrients from the soil. Ecologists transplanted tree seedlings from the forest into plots in the fynbos. Seedlings in plots isolated from the roots of fynbos plants exhibited a growth rate five times greater than that of the seedlings in plots in close proximity to the roots of fynbos plants. Based on the text, what role do fynbos roots most likely have in maintaining the border between the fynbos shrubland and the Afro-temperate forest habitats?",
     "choices": {
@@ -2176,31 +1768,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "0b6ecd9f",
-    "question": "100 90 80 70 60 50 40 30 20 10 0 Seeds germinated (%) 24 48 72 168 Seed Germination with and without H\u2082S Treatment Time (hours) 500 micromoles per liter 10 micromoles per liter untreated In high concentrations, hydrogen sulfide (H\u2082S) is typically toxic to many plants. Frederick D. Dooley and colleagues wanted to understand what effects low doses of H\u2082S might have on plant growth. They treated bean, corn, wheat, and pea seeds with various concentrations (measured in micromoles per liter) of H\u2082S and tracked the germination of those seeds along with the germination of untreated seeds. Treatment with par ticular concentrations of H\u2082S was associated with accelerated germination: for example, ______ Which choice most effectively uses data from the graph to complete the statement?",
-    "choices": {
-      "A": "at 24 hours, less than 10% of seeds treated with H\u2082S at a concentration of 10 micromoles per liter had germinated, whereas more than 90% of those seeds had germinated at 168 hours.",
-      "B": "at 48 hours, more than 70% of seeds treated with H\u2082S at a concentration of 10 micromoles per liter had germinated, whereas only approximately 50% of untreated seeds had germinated.",
-      "C": "at 168 hours, more than 90% of seeds treated with H\u2082S at concentrations of 10 or 500 micromoles per liter had germinated, whereas less than 70% of untreated seeds had germinated.",
-      "D": "at 48 hours, approximately 50% of seeds treated with H\u2082S at a concentration of 10 micromoles per liter had germinated, whereas only approximately 30% of untreated seeds had germinated."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q156",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "B",
-    "rationale": "Choice B is the best answer. The claim is that some concentrations of H\u2082S led to increased germination rates, and this choice accurately shows that seeds treated with 10 micromoles per liter of H\u2082S tended to germinate faster than untreated seeds. Choice A is incorrect. This choice doesn\u2019t justify the claim. The claim compares the germination rates of seeds exposed to cer tain concentrations of H\u2082S to untreated seeds, but this choice only discusses one concentration of H\u2082S, so it can\u2019t suppor t any comparison between treated and untreated groups. Choice C is incorrect. This choice misreads the graph. At 168 hours, only about 85% of seeds treated with H\u2082S at 500 micromoles per liter and well over 70% of untreated seeds had germinated (about 80%). Choice D is incorrect. This choice misreads the graph. At 48 hours, about 70% of seeds treated with H\u2082S at 10 micromoles per liter and about 50% of untreated seeds had germinated.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "cc9f9661",
@@ -2413,32 +1980,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
   },
   {
-    "id": "02efd255",
-    "question": "600 550 500 450 400 350 300 250 200 150 100 50 0 Number of suggestions additive neither additive nor subtractive subtractive invalid Suggestions for Improving a University suggestion type Gabrielle Adams and colleagues reviewed suggestions for improving a university that had been submitted to the university\u2019s president. They coded each suggestion as additive (the idea suggested adding something new to the university), subtractive (the idea suggested removing something from the university), neither additive nor subtractive, or invalid (the idea was not comprehensible). The data illustrated people\u2019s tendency to overlook the possibility of removing things to achieve improvements: ______ Which choice most effectively uses data in the graph to complete the statement?",
-    "choices": {
-      "A": "around 175 suggestions were coded as neither additive nor subtractive, whereas around 575 suggestions were coded as additive.",
-      "B": "more than 350 suggestions were coded as invalid, whereas fewer than 100 suggestions were coded as subtractive.",
-      "C": "fewer than 100 suggestions were coded as subtractive, whereas more than 550 suggestions were coded as additive."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q172",
-    "question": "",
-    "choices": {
-      "D": "around 575 suggestions were coded as additive, whereas around 175 suggestions were coded as subtractive."
-    },
-    "correctAnswer": "C",
-    "rationale": "Choice C is the best answer. This choice shows that people suggested removing things to achieve improvements a lot less often than they suggested adding things, which suppor ts the claim that people tend not to think of removing things as a likely way to improve the university. Choice A is incorrect. This choice doesn\u2019t suppor t the claim. We are looking to prove that people suggested subtractive means of achieving improvements less often than other means, but this choice doesn\u2019t address how often people made subtractive suggestions. Choice B is incorrect. This choice doesn\u2019t suppor t the claim. Invalid responses were incomprehensible, so we can\u2019t compare what they were suggesting to what was being suggested in subtractive responses. Choice D is incorrect. This choice misreads the graph. Fewer than 100 suggestions were coded as subtractive. 175 is the approximate number of suggestions coded as \u201cneither additive or subtractive. \u201d",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "bd226876",
     "question": "Neurobiologists Laura Cuaya, Ra\u00fal Hern\u00e1ndez-P\u00e9rez, and colleagues investigated the language detection abilities of eighteen dogs. The researchers monitored the brain activity of Joey (an Australian shepherd), Mini (a mixed breed), and other dogs while the animals listened to three recordings: one of\u00a0The Little Prince being read in Spanish, the second in Hungarian, and a third made up of shor t, randomly selected fragments of the first two, scrambled so that they didn\u2019t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that differences in dogs\u2019 anatomical features may affect their ability to distinguish speech from nonspeech. Which finding from the study, if true, would most directly suppor t the team\u2019s conclusion?",
     "choices": {
@@ -2452,16 +1993,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q174",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "6d10dffd",
@@ -2614,32 +2145,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nInferences\nHard"
   },
   {
-    "id": "f603eb7a",
-    "question": "90 80 70 60 50 40 30 20 10 0 Percentage of all sites analyzed 0% Up to 25% More than 25% Home Heating Needs Met with Subsurface Thermal Pollution for Two Temperature Conditions, by Percentage of Sites Local heating needs met Current surface temperature Maximum plausible surface temperature Urbanization, industrialization, and the warming climate create thermal pollution (excess heat) in the shallow subsurface soil. Susanne A. Benz and colleagues analyzed thousands of sites on three continents under one scenario in which surface temperature remains at the current level and under another in which the surface reaches the maximum plausible temperature. They then categorized each site according to the percentage of local home heating needs that could be met using this excess subsurface heat. The team concluded that if surface temperature approaches the maximum plausible level, the percentage of sites where thermal pollution could feasibly contribute to meeting home heating needs will increase. Which choice best describes data in the graph that suppor t Benz and colleagues\u2019 conclusion?",
-    "choices": {
-      "A": "Under both temperature conditions, less than 10% of sites were in the up-to-25% group, but at the maximum plausible surface temperature, almost 80% of sites could have all their local heating needs met by thermal pollution."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q186",
-    "question": "",
-    "choices": {
-      "B": "At current surface temperatures, more than 80% of the sites have no need for supplemental local home heating from subsurface thermal pollution, but at the maximum plausible surface temperature, more than 70% of sites exhibit significantly greater home heating needs.",
-      "C": "At current surface temperatures, more than 80% of sites can meet, at most, 25% of local home heating needs with subsurface thermal pollution, but at the maximum plausible surface temperature, more than 80% of sites can meet greater than 25% of local home heating needs.",
-      "D": "At current surface temperatures, more than 80% of the sites cannot use subsurface thermal pollution to meet any por tion of local home heating needs, but at the maximum plausible surface temperature, that percentage drops below 20%."
-    },
-    "correctAnswer": "D",
-    "rationale": "Choice D is the best answer. The researchers concluded that as we approach maximum plausible surface temperatures, there will be a larger percentage of sites where thermal pollution could contribute to meeting home heating needs. By showing that only a small percentage of homes can currently use thermal pollution for home heating, and that this percentage would grow much larger at maximum plausible surface temperatures, this choice suppor ts the researchers\u2019 conclusion. Choice A is incorrect. We do not know how many sites could have all (i.e., 100%) of their local heating needs met by thermal pollution, as the graph only classifies sites by whether \"0%, \" \"Up to 25%, \" and \"More than 25%\" of heating needs could be met. Choice B is incorrect. The graph is not depicting need for supplemental heating from thermal pollution, but rather potential to use thermal pollution for supplemental heating. Choice C is incorrect. The graph indicates that, at current surface temperatures, less than 10% of sites can meet 25% of local home heating needs and that more than 80% of sites cannot meet any local home heating needs.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "ee82845f",
     "question": "The increased integration of digital technologies throughout the process of book creation in the late 20th and early 21st centuries lowered the costs of book production, but those decreased costs have been most significant in the manufacturing and distribution process, which occurs after the authoring, editing, and design of the book are complete. This suggests that in the late 20th and early 21st centuries, ______ Which choice most logically completes the text?",
     "choices": {
@@ -2683,31 +2188,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "763ac966",
-    "question": "30 25 20 15 10 5 0 Compressive strength (megapascals) control (0% SSA) 10% SSA 20% SSA 40% SSA Compressive Strength of Mortar Mixtures After Curing Mixture day 7 day 28 Mollusk shells are mainly composed of calcium carbonate, a chemical compound used in mor tar and other construction materials. A research team led by Ariane da Silva Cardoso investigated pulverizing discarded Sururu mussel shells to create a substitute for fine aggregates (such as sand) in mor tar mixtures. The team prepared mixtures with Sururu shell aggregate (SSA) replacing varying percentages of sand and then tested the mor tars\u2019 compressive strength on days 7 and 28 of curing. Based on their findings, the team recommended SSA substitution in relatively small propor tions to avoid compromising strength. Which choice most effectively uses data from the graph to suppor t the researchers\u2019 recommendation?",
-    "choices": {
-      "A": "The 10% SSA mixture\u2019s compressive strength was greater than or approximately equal to that of the control mixture on day 7 and on day 28, but on both days the 20% and 40% SSA mixtures had less compressive strength than the control mixture did.",
-      "B": "The compressive strength of the 10% SSA mixture remained nearly the same from day 7 to day 28, while that of the 20% and 40% SSA mixtures changed substantially.",
-      "C": "The 10% SSA mixture\u2019s compressive strength was greater than that of the control mixture on day 7, but by day 28 the 10% SSA mixture\u2019s compressive strength had decreased while that of the control mixture had increased.",
-      "D": "The compressive strength of the 10% SSA mixture never surpassed the compressive strength measured for the control mixture on day 28."
-    },
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nInformation and Ideas\nCommand of Evidence\nHard"
-  },
-  {
-    "id": "q191",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "A",
-    "rationale": "Choice A is the best answer because it most effectively uses data from the graph to suppor t the researchers\u2019 recommendation that Sururu shell aggregate (SSA) substitution be done in relatively small propor tions to avoid compromising the compressive strength of mor tar mixtures. The text explains that a research team investigated whether SSA can serve as a substitute for sand in mor tar mixtures. The graph presents the compressive strength (in megapascals) of mor tar mixtures with SSA replacing 0% (control), 10%, 20%, and 40% of the sand on day 7 and day 28 of curing. The graph shows that the compressive strength of the 10% SSA mixture was approximately 25 megapascals on day 7, which is greater than the control mixture\u2019s approximately 22 megapascals on the same day. The graph also shows that the 10% SSA mixture\u2019s compressive strength was slightly more than 25 megapascals on day 28, which is only slightly less than the control\u2019s compressive strength on the same day (about 26 megapascals). Therefore, the graph shows that the compressive strength of the 10% SSA mixture was greater than that of the control on day 7 and roughly equal to that of the control on day 28, suggesting that substituting only 10% of the sand with SSA avoids compromising the mor tar\u2019s compressive strength. The graph also shows that on day 7, the 20% and 40% SSA mixtures had compressive strengths of about 19 and 13 megapascals, respectively (both lower than the control\u2019s), and on day 28, they had compressive strengths of about 22 and 15 megapascals, respectively (once again lower than the control\u2019s). Thus, the data suppor t the recommendation by indicating that substituting relatively small propor tions of sand with SSA in mor tar mixtures doesn\u2019t compromise strength compared with the control, whereas substituting larger propor tions does. Choice B is incorrect because the comparison it makes isn\u2019t relevant to the researchers\u2019 recommendation. Although the graph does show that the bars representing the compressive strength of the 10% SSA mixture on day 7 and day 28 are roughly the same height (suggesting that the mixture\u2019s compressive strength changed by only a small amount), and although there are relatively large gaps between the bars showing the compressive strength of the 20% and 40% SSA mixtures on day 7 and day 28 (suggesting that their compressive strength changed over time by a greater amount), this comparison concerns only how each SSA mixture\u2019s strength changed over time and doesn\u2019t compare the SSA mixtures with the control mixture. Suppor ting the recommendation that SSA substitution be done in small propor tions requires evidence that small substitutions don\u2019t compromise strength relative to the control while larger substitutions do. Choice C is incorrect because it doesn\u2019t accurately represent the data in the graph, nor is the comparison it makes relevant to the researchers\u2019 recommendation. While the graph does show that the compressive strength of the 10% SSA mixture was greater than that of the control on day 7 (about 25 megapascals vs. about 22 megapascals) and, moreover, that the compressive strength of the control increased from day 7 to day 28 (from about 22 megapascals to about 26 megapascals), the graph shows that the compressive strength of the 10% SSA mixture increased by a small amount (from about 25 megapascals to slightly more than 25 megapascals), not that it decreased. Moreover, the researchers recommended substituting relatively small propor tions (compared with larger propor tions) of the mixtures with SSA; comparing the compressive strength of the 10% SSA mixture with that of the control without also considering how the compressive strength of the 10% SSA mixture compared with that of the 20% and 40% SSA mixtures wouldn\u2019t suppor t the recommendation. Choice D is incorrect. Though the graph indicates that the 10% SSA mixture\u2019s compressive strength on day 7 and day 28 (about 25 megapascals and slightly more than 25 megapascals, respectively) didn\u2019t surpass the control mixture\u2019s compressive strength on day 28 (about 26 megapascals), this observation doesn\u2019t suppor t the recommendation. The recommendation concerns the trade-off between SSA propor tion and compressive strength; suppor ting it requires not just evidence about how the 10% SSA mixture compared with the control but also evidence about how the mixtures with larger propor tions of SSA (20% and 40%) compared with the 10% SSA mixture and the control.",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "b2bd1f67",
@@ -2785,16 +2265,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
   },
   {
-    "id": "q197",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "645006eb",
     "question": "Players of online games are largely aware that the games collect their data, and they\u2019re often willing to trade some privacy for a fun experience. But the games are often quite ______ about what data they collect and why. Because of this, data-privacy advocates are seeking to expand online players\u2019 knowledge of data collection practices and improve their ability to navigate privacy-setting features in games. Which choice completes the text with the most logical and precise word or phrase?",
     "choices": {
@@ -2853,16 +2323,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
-  },
-  {
-    "id": "q202",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "332e8f12",
@@ -3060,16 +2520,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
   },
   {
-    "id": "q216",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "cdbc0f69",
     "question": "Raymond Antrobus, an accomplished poet and writer of prose, recently released his debut spoken word poetry album, The First Time I Wore Hearing Aids, in collaboration with producer Ian Brennan. The album contains both autobiographical and reflective pieces combining Antrobus\u2019s spoken words with Brennan\u2019s fragmented audio elements and pieces of music to convey how people who are deaf may experience sound, both its presence and absence. Some critics suggest that the album questions the function of sound in the world, highlighting that the experience of sound is multifaceted. Which choice best describes the overall structure of the text?",
     "choices": {
@@ -3113,16 +2563,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
-  },
-  {
-    "id": "q220",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "e28d8e2b",
@@ -3243,16 +2683,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nText Structure and\nPurpose\nHard"
-  },
-  {
-    "id": "q229",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "e90f502d",
@@ -3480,16 +2910,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
   },
   {
-    "id": "q245",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "4259636f",
     "question": "In Jane Austen\u2019s novel Mansfield Park, an almost imperceptible smile from potential suitor Henry Crawford causes the protagonist Fanny Price to blush; her embarrassment grows when she suspects that he is aware of it. This moment\u2014in which Fanny not only infers Henry\u2019s mental state through his gestures, but also infers that he is drawing inferences about her mental state\u2014illustrates what literary scholar George Butte calls \u201cdeep intersubjectivity, \u201d a technique for representing interactions between consciousnesses through which Austen\u2019s novels derive much of their social and psychological drama. Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choices": {
@@ -3518,16 +2938,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nText Structure and\nPurpose\nHard"
-  },
-  {
-    "id": "q248",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "e19a5d1f",
@@ -3845,16 +3255,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nText Structure and\nPurpose\nHard"
   },
   {
-    "id": "q270",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "9492c926",
     "question": "The following text is from Joseph Conrad\u2019s 1907 novel The Secret Agent: A Simple Tale. Mr. Verloc is navigating the London streets on his way to a meeting. Before reaching Knightsbridge, Mr. Verloc took a turn to the left out of the busy main thoroughfare, uproarious with the traffic of swaying omnibuses and trotting vans, in the almost silent, swift flow of hansoms [horse-drawn carriages]. Under his hat, worn with a slight backward tilt, his hair had been carefully brushed into respectful sleekness; for his business was with an Embassy. And Mr. Verloc, steady like a rock\u2014a soft kind of rock\u2014marched now along a street which could with every propriety be described as private. Which choice best describes the function of the underlined phrase in the text as a whole?",
     "choices": {
@@ -4020,16 +3420,6 @@
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nCross-Text Connections\nHard"
   },
   {
-    "id": "q282",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
-  },
-  {
     "id": "b4159cd8",
     "question": "Archeological excavation of Market Street Chinatown, a nineteenth-century Chinese American community in San Jose, California, provided the first evidence that Asian food products were impor ted to the United States in the 1800s: bones from a freshwater fish species native to Southeast Asia. Jinshanzhuang\u2014Hong Kong\u2013based impor t/expor t firms\u2014likely coordinated the fish\u2019s transpor t from Chinese-operated fisheries in Vietnam and Malaysia to Nor th American markets. This route reveals the (often overlooked) multinational dimensions of the trade networks linking Chinese diaspora communities. Which choice best describes the function of the underlined sentence in the text as a whole?",
     "choices": {
@@ -4073,16 +3463,6 @@
     "domain": "",
     "skill": "",
     "difficulty": "PSAT/NMSQT and PSAT\n10\nReading and Writing\nCraft and Structure\nText Structure and\nPurpose\nHard"
-  },
-  {
-    "id": "q286",
-    "question": "",
-    "choices": {},
-    "correctAnswer": "",
-    "rationale": "",
-    "domain": "",
-    "skill": "",
-    "difficulty": ""
   },
   {
     "id": "67aeed94",
