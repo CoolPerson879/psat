@@ -553,8 +553,7 @@ export default function Home() {
       {/* Footer */}
       <footer style={{ height: '56px', background: '#eaf2fb', borderTop: '1px solid #cfd6df', display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0 40px', flexShrink: 0 }}>
         <div style={{ fontWeight: 700, color: '#303030', fontSize: '14px' }}>
-          Aditya Kashyap
-        </div>
+chud        </div>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '8px 18px', background: '#252525', color: '#ffffff', borderRadius: '6px', fontSize: '13px', fontWeight: 700 }}>
           Question {quizState.currentQuestionIndex + 1} of {questions.length}
