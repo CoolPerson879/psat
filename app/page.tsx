@@ -21,6 +21,7 @@ export default function Home() {
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [loading, setLoading] = useState(true);
   const [elapsedTime, setElapsedTime] = useState(0);
+  const [showQuestionPicker, setShowQuestionPicker] = useState(false);
 
   useEffect(() => {
     fetch('/questions.json')
@@ -51,6 +52,10 @@ export default function Home() {
         startTime: progress.startTime,
         questionTimes: progress.questionTimes,
       });
+      const savedAnswer = progress.answers[progress.currentQuestionIndex];
+      setSelectedAnswer(savedAnswer ?? null);
+      setShowFeedback(savedAnswer !== undefined);
+      setElapsedTime(0);
       setQuizStarted(true);
     }
   };
@@ -69,8 +74,23 @@ export default function Home() {
     }
   }, [quizStarted, quizCompleted, quizState, saveProgress]);
 
+  useEffect(() => {
+    if (!showQuestionPicker) return;
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        setShowQuestionPicker(false);
+      }
+    };
+    window.addEventListener('keydown', handleEscape);
+    return () => window.removeEventListener('keydown', handleEscape);
+  }, [showQuestionPicker]);
+
   const startQuiz = () => {
     setQuizStarted(true);
+    setSelectedAnswer(null);
+    setShowFeedback(false);
+    setShowQuestionPicker(false);
+    setElapsedTime(0);
     setQuizState({
       currentQuestionIndex: 0,
       answers: {},
@@ -89,6 +109,8 @@ export default function Home() {
     if (!selectedAnswer) return;
 
     const currentQuestion = questions[quizState.currentQuestionIndex];
+    const previousAnswer = quizState.answers[quizState.currentQuestionIndex];
+    const wasPreviouslyCorrect = previousAnswer === currentQuestion.correctAnswer;
     const isCorrect = selectedAnswer === currentQuestion.correctAnswer;
     const timeTaken = Date.now() - quizState.startTime;
 
@@ -97,11 +119,18 @@ export default function Home() {
       [quizState.currentQuestionIndex]: selectedAnswer,
     };
 
-    const newScore = isCorrect ? quizState.score + 1 : quizState.score;
+    let newScore = quizState.score;
+    if (previousAnswer === undefined) {
+      if (isCorrect) {
+        newScore += 1;
+      }
+    } else if (wasPreviouslyCorrect !== isCorrect) {
+      newScore += isCorrect ? 1 : -1;
+    }
 
     const newQuestionTimes = {
       ...quizState.questionTimes,
-      [quizState.currentQuestionIndex]: timeTaken,
+      [quizState.currentQuestionIndex]: quizState.questionTimes[quizState.currentQuestionIndex] ?? timeTaken,
     };
 
     const newState: QuizState = {
@@ -113,12 +142,13 @@ export default function Home() {
       questionTimes: newQuestionTimes,
     };
 
-    setQuizState(newState);
-    setSelectedAnswer(null);
-    setShowFeedback(false);
-    setElapsedTime(0);
-
     const nextIndex = quizState.currentQuestionIndex + 1;
+    const nextSavedAnswer = newAnswers[nextIndex];
+
+    setQuizState(newState);
+    setSelectedAnswer(nextSavedAnswer ?? null);
+    setShowFeedback(nextSavedAnswer !== undefined);
+    setElapsedTime(0);
     if (nextIndex % QUESTIONS_PER_BATCH === 0 && nextIndex < questions.length) {
       setShowAnalytics(true);
     }
@@ -135,6 +165,20 @@ export default function Home() {
 
   const continueFromAnalytics = () => {
     setShowAnalytics(false);
+  };
+
+  const navigateToQuestion = (questionIndex: number) => {
+    const savedAnswer = quizState.answers[questionIndex];
+
+    setQuizState(prevState => ({
+      ...prevState,
+      currentQuestionIndex: questionIndex,
+      startTime: Date.now(),
+    }));
+    setSelectedAnswer(savedAnswer ?? null);
+    setShowFeedback(savedAnswer !== undefined);
+    setShowQuestionPicker(false);
+    setElapsedTime(0);
   };
 
   const formatTime = (seconds: number) => {
@@ -555,12 +599,72 @@ export default function Home() {
         <div style={{ fontWeight: 700, color: '#303030', fontSize: '14px' }}>
 chud        </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '8px 18px', background: '#252525', color: '#ffffff', borderRadius: '6px', fontSize: '13px', fontWeight: 700 }}>
+        <button
+          type="button"
+          onClick={() => setShowQuestionPicker(true)}
+          aria-haspopup="dialog"
+          aria-expanded={showQuestionPicker}
+          aria-label="Open question picker"
+          style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '8px 18px', background: '#252525', color: '#ffffff', borderRadius: '6px', fontSize: '13px', fontWeight: 700, border: 'none', cursor: 'pointer', fontFamily: 'var(--font-noto-serif), Georgia, serif' }}
+        >
           Question {quizState.currentQuestionIndex + 1} of {questions.length}
-        </div>
+        </button>
 
         <div style={{ width: '100px' }} />
       </footer>
+
+      {showQuestionPicker && (
+        <div
+          role="dialog"
+          aria-modal="true"
+          aria-label="Question picker"
+          style={{ position: 'fixed', inset: 0, background: 'rgba(0, 0, 0, 0.35)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '24px' }}
+          onClick={() => setShowQuestionPicker(false)}
+        >
+          <div
+            style={{ width: '100%', maxWidth: '600px', maxHeight: '70vh', overflow: 'auto', background: '#ffffff', borderRadius: '12px', boxShadow: '0 10px 30px rgba(0,0,0,0.2)', padding: '24px' }}
+            onClick={(event) => event.stopPropagation()}
+          >
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '16px' }}>
+              <h2 style={{ margin: 0, fontSize: '20px', color: '#252525' }}>Jump to question</h2>
+              <button
+                type="button"
+                onClick={() => setShowQuestionPicker(false)}
+                style={{ border: '1px solid #cfd6df', background: '#ffffff', borderRadius: '6px', padding: '6px 12px', cursor: 'pointer', fontFamily: 'var(--font-noto-serif), Georgia, serif' }}
+              >
+                Close
+              </button>
+            </div>
+
+            <div style={{ display: 'flex', gap: '16px', fontSize: '12px', color: '#555', marginBottom: '14px' }}>
+              <span>Current: dark</span>
+              <span>Answered: green</span>
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(64px, 1fr))', gap: '10px' }}>
+              {questions.map((question, index) => {
+                const isCurrent = index === quizState.currentQuestionIndex;
+                const isAnswered = quizState.answers[index] !== undefined;
+                const background = isCurrent ? '#252525' : isAnswered ? '#e6f4ea' : '#ffffff';
+                const color = isCurrent ? '#ffffff' : '#303030';
+                const borderColor = isCurrent ? '#252525' : isAnswered ? '#34a853' : '#cfd6df';
+
+                return (
+                  <button
+                    key={question.id}
+                    type="button"
+                    onClick={() => navigateToQuestion(index)}
+                    aria-current={isCurrent ? 'true' : undefined}
+                    style={{ minHeight: '44px', borderRadius: '8px', border: `1px solid ${borderColor}`, background, color, fontWeight: isCurrent ? 700 : 600, cursor: 'pointer', fontFamily: 'var(--font-noto-serif), Georgia, serif' }}
+                  >
+                    {index + 1}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
